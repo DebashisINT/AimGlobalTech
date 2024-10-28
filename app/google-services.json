@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "172167895970",
+    "project_id": "aim-global-tech",
+    "storage_bucket": "aim-global-tech.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172167895970:android:44dd383d567d7a888d70fb",
+        "android_client_info": {
+          "package_name": "com.breezefieldsaimglobaltech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY8aoGxu4go3NPMeOYEzQmObNTHsgW5Mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
